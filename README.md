@@ -73,10 +73,6 @@ src/
 │
 │── App.jsx
 │── index.js
-
-yaml
-Copier le code
-
 ---
 
 ## ▶️ Lancer le projet
